@@ -1,8 +1,0 @@
-bash -l -c "pacman -Sy pacman"
-bash -l -c "pacman -Syu"
-bash -l -c "pacman -S make tar unzip"
-bash -l -c "pacman -S mingw-w64-x86_64-gcc"
-bash -l -c "pacman -S mingw-w64-x86_64-gdb"
-bash -l -c "pacman -S mingw-w64-x86_64-boost"
-bash -l -c "pacman -S mingw-w64-x86_64-gmp"
-bash -l -c "pacman -S mingw-w64-x86_64-make"
